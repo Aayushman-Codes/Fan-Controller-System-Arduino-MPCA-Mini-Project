@@ -2,7 +2,7 @@
 ## MPCA Mini Project — 4th Semester, Section A
 ### A temperature and light intensity based fan controllor and regulator built using Arduino Uno R3 for MPCA Course Mini Project
 
-**Description:**An intelligent, climate-responsive fan controller built on an **Arduino Uno R3** that dynamically regulates a DC fan's speed based on real-time ambient temperature and environmental lighting — using PWM for smooth, proportional control instead of simple ON/OFF switching.
+**Description:** An intelligent, climate-responsive fan controller built on an **Arduino Uno R3** that dynamically regulates a DC fan's speed based on real-time ambient temperature and environmental lighting — using PWM for smooth, proportional control instead of simple ON/OFF switching.
 
 **Team Members:**
 | Sl. No | Name | SRN |
